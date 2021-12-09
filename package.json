@@ -10,7 +10,7 @@
     "apollo-client": "^2.6.10",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "next": "^9.4.0",
+    "next": "^11.1.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
